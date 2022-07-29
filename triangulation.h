@@ -9,11 +9,12 @@
 #define INC_TRIANGULATION_H_
 
 
-#include "main.h"
+#include <stdio.h>
+#include <stdint.h>
 
 
-//#define PRINT_ERRORS
-//#define PRINT_FLOAT_VALUES
+#define PRINT_ERRORS
+#define PRINT_FLOAT_VALUES
 
 
 
